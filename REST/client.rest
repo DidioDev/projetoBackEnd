@@ -1,0 +1,12 @@
+###TESTE CONEXÃO
+GET http://localhost:3000
+
+###TESTE POST
+POST http://localhost:3000
+Content-Type: application/json
+
+{
+    "Nome": "Lucas Smaniotto 2",
+    "Curso": "TEC. Informática" 
+}
+
