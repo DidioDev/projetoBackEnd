@@ -1,6 +1,6 @@
 export class Database {
     
-    database = {}
+    database:any = {}
     
     select(table:string):object {
         const data = this.database[table] ?? [] 

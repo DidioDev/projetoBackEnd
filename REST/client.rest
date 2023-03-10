@@ -6,7 +6,8 @@ POST http://localhost:3000
 Content-Type: application/json
 
 {
-    "Nome": "Lucas Smaniotto 2",
-    "Curso": "TEC. Informática" 
+    "Nome": "Lucas Smaniotto",
+    "Email": "lucassmaniottoo@gmail.com",
+    "Curso": "TEC. Informática"
 }
 
